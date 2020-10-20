@@ -1,0 +1,19 @@
+{
+  "name": "map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khanh Luu",
+  "license": "ISC",
+  "dependencies": {
+    "@types/googlemaps": "^3.39.14",
+    "faker": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/faker": "^5.1.0",
+    "typescript": "^4.0.3"
+  }
+}
